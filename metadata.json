@@ -1,0 +1,6 @@
+{
+  "name": "TeleBot Manager",
+  "description": "Mobile companion and manager for Telegram Video Downloader Bot",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
